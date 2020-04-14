@@ -1,6 +1,6 @@
-# EfficientNet-C19
+# EfficientNet-C19 : Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images
 
-Repository for reproducing the results: Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images [paper](https://arxiv.org/abs/2004.05717)
+Repository for reproducing the results: "Towards an Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images" [paper](https://arxiv.org/abs/2004.05717)
 
 Abstract 
 "Confronting the pandemic of COVID-19 caused by the new coronavirus, the SARS-CoV-2, is nowadays one of the most prominent challenges of the human species. A key factor in slowing down the virus propagation is rapid diagnosis and isolation of infected patients. Nevertheless, the standard method for COVID-19 identification, the RT-PCR, is time-consuming and in short supply due to the pandemic.
