@@ -83,7 +83,7 @@ def load_images(file_names, img_shape):
         bar.next()
         imgs.append(cv2.resize(cv2.imread(f, cv2.IMREAD_COLOR), img_shape, interpolation=cv2.INTER_AREA).reshape(-1, img_shape[0], img_shape[1], 3))
     bar.finish()
-    return np.asarray(imgs).reshape(shape=(-1, img_shape[0], img_shape[1], 3))
+    return np.asarray(imgs).reshape(-1, img_shape[0], img_shape[1], 3)
 
 
 def read_txt(file_name):
